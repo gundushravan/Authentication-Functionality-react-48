@@ -1,0 +1,21 @@
+.nav-Item {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-end;
+  flex: 1;
+  list-style-type: none;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.nav-link {
+  text-decoration: none;
+  color: #041021;
+  margin-left: 10px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  cursor: pointer;
+}
+.nav-link:hover {
+  color: coral;
+}
